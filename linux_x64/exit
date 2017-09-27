@@ -1,0 +1,3 @@
+Author: @Erv00
+
+char shellcode[] = "\x48\x31\xc0\xb0\x3c\x0f\x05";
